@@ -1,0 +1,14 @@
+net: "/home/kevin/caffe/NeuralNetwork/final1/train_val.prototxt"
+test_iter: 1263
+test_interval: 10000
+base_lr: 0.0001
+lr_policy: "step"
+gamma: 0.001
+stepsize: 22220
+display: 20
+max_iter: 100000
+momentum: 0.9
+weight_decay: 0.0005
+snapshot: 25000
+snapshot_prefix: "train_val.prototxt"
+solver_mode: CPU
