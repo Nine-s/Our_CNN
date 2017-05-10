@@ -1,5 +1,0 @@
-0 head
-1 left mandibula
-2 pronotum
-3 right mandibula
-4 elytre
